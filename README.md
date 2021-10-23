@@ -1,4 +1,4 @@
-#  Tour-de-Nashville
+#  Living in Nashville
 
 ## Overview
 Using a supervised learning model, we want to predict why people live in certain areas of Nashville.
