@@ -6,6 +6,7 @@ Using a supervised learning model, we want to predict why people live in certain
 ## Resources
 Kaggle dataset:  https://www.kaggle.com/tmthyjames/nashville-housing-data/activity</br>
 Enrollment - June 2021 from Metro Nashville Public Schools:  https://mnps.org/about/communications/opendata</br>
+School rankings:  https://www.greatschools.org/tennessee/nashville/6719-Casa-Azafran-Early-Learning-Center/
 Parks</br>
 Restaurants/Social </br>
 
