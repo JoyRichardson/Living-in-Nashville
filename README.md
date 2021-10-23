@@ -4,7 +4,7 @@
 Using supervised learning model, we want to predict which New York restaurants are likely to become Michelin-star restaurants.
 
 ## Resources
-Datasets from Kaggle and OpenTable</br>
+Multiple datasets from Kaggle</br>
 Software(s): Python 3.7, Scikit-Learn and Imbalanced-Learn libraries
 
 ## Purpose
