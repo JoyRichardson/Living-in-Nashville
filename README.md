@@ -1,14 +1,14 @@
 #  Living in Nashville
 
 ## Overview
-Using a supervised learning model, we want to predict why people live in certain areas of Nashville.
+We want to predict why people live in certain areas of Nashville.  Since there is no known output, we will use unsupervised learning and share our findings with data visualizations.
 
 ## Resources
 Kaggle dataset:  https://www.kaggle.com/tmthyjames/nashville-housing-data/activity</br>
 Enrollment - June 2021 from Metro Nashville Public Schools:  https://mnps.org/about/communications/opendata</br>
-School rankings:  https://www.greatschools.org/tennessee/nashville/6719-Casa-Azafran-Early-Learning-Center/
+School rankings:  https://www.greatschools.org/tennessee/nashville/6719-Casa-Azafran-Early-Learning-Center/</br>
 Parks</br>
-Restaurants/Social </br>
+Restaurants and Bars:  http://nashvilleguru.com/nashville-restaurants-and-bars </br>
 
 Software(s): Python 3.7, Scikit-Learn and Imbalanced-Learn libraries
 
