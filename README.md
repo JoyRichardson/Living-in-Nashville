@@ -10,17 +10,17 @@ Here locally in Middle Tennessee, there’s a new spotlight on our economic grow
 ## Purpose
 Our team lives in and around the Nashville area so as our final project, we chose to predict the sales price of housing in the Nashville Metro area based on key factors that may have influence on the price of the houses. 
 
-Final determination was made to use Supervised Learning with the Regression model to minimize the error of prediction.  Through the ETL process, we will determine our features. The target will be the Sales Price.  For our machine learning model, we plan to begin with BalancedRandomForestClassifier to reduce bias.
+Final determination was made to use Supervised Learning with the Regression model to minimize the error of prediction.  Through the ETL process, we will determine our features. The target will be the Sales Price.  
 
 The key steps are listed below:</br>
 
 1. Framing the Problem - Complete</br>
 2. Getting the Data - Complete</br>
 3. Exploring the Data - Complete</br>
-4. Data Preprocessing - In progress</br>
+4. Data Preprocessing - Complete</br>
 5. Model Development - In progress</br>
-6. Model Tuning/Ensemble Learning </br>
-7. Deploying Model </br>
+6. Model Tuning/Ensemble Learning - In progress</br>
+7. Deploying Model- In progress</br>
 8. Presentation of Solution - In progress</br>
 
 ## Resources:
@@ -66,3 +66,18 @@ Google Slides:  https://docs.google.com/presentation/d/1GFjG-l6xeNtwq9jgkAt1Yndm
 * Related to above, we also decided to use SQLite instead of pgAdmin for our database
 
 * Machine Learning Model has been created as an outline and uploaded to the Machine_Learning_Model branch
+
+### Week 4
+
+* Discussed the best way to connect the database to the Machine Learning Model
+
+  ** Cleaned up the Database_Nashville branch and merged it to Main
+
+  ** Will merge the Machine_Learning_Model branch to Main
+
+  ** Created new branch Connect_Database_to_Model
+
+* Connection of the model to the dataframe
+
+* Tableau will connect directly to the csv files for visualizations
+
