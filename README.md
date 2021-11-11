@@ -37,6 +37,8 @@ SQLite, Python 3.7, Pandas, Numpy, Matplotlib, Scikit-Learn
 
 Google Slides:  https://docs.google.com/presentation/d/1GFjG-l6xeNtwq9jgkAt1YndmvLPib42iHLwfS4r0gK8/edit?usp=sharing
 
+Tableau Public:  https://public.tableau.com/app/profile/joy.richardson/viz/FinalProject_16366012495220/AvgSalesPricebyZip?publish=yes
+
 ### Week 1
 
 * Created a branch for each section in the Rubric:  Presentation, Machine_Learning_Model, Database and Dashboard_Tableau
@@ -71,13 +73,13 @@ Google Slides:  https://docs.google.com/presentation/d/1GFjG-l6xeNtwq9jgkAt1Yndm
 
 * Discussed the best way to connect the database to the Machine Learning Model
 
-  ** Cleaned up the Database_Nashville branch and merged it to Main
+  ** Cleaned up the Database_Nashville branch and will merge to Main
 
   ** Will merge the Machine_Learning_Model branch to Main
-
-  ** Created new branch Connect_Database_to_Model
 
 * Connection of the model to the dataframe
 
 * Tableau will connect directly to the csv files for visualizations
+
+* Began building visualizations in Tableau - shared link above
 
