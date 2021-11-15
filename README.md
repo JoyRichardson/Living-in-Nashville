@@ -14,14 +14,14 @@ Final determination was made to use Supervised Learning with the Regression mode
 
 The key steps are listed below:</br>
 
-1. Framing the Problem - Complete</br>
-2. Getting the Data - Complete</br>
-3. Exploring the Data - Complete</br>
-4. Data Preprocessing - Complete</br>
-5. Model Development - In progress</br>
-6. Model Tuning/Ensemble Learning - In progress</br>
-7. Deploying Model- In progress</br>
-8. Presentation of Solution - In progress</br>
+1. Framing the Problem </br>
+2. Getting the Data </br>
+3. Exploring the Data </br>
+4. Data Preprocessing </br>
+5. Model Development </br>
+6. Model Tuning/Ensemble Learning </br>
+7. Deploying Model </br>
+8. Presentation of Solution </br>
 
 ## Resources:
 Kaggle dataset:  https://www.kaggle.com/tmthyjames/nashville-housing-data/activity</br>
@@ -83,3 +83,6 @@ Tableau Public:  https://public.tableau.com/app/profile/joy.richardson/viz/Final
 
 * Began building visualizations in Tableau - shared link above
 
+* Completed Machine Learning Model
+
+* Continued work on presentation
