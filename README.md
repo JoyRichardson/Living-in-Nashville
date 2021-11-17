@@ -73,9 +73,9 @@ Tableau Public:  https://public.tableau.com/app/profile/joy.richardson/viz/Final
 
 * Discussed the best way to connect the database to the Machine Learning Model
 
-  ** Cleaned up the Database_Nashville branch and will merge to Main
+* Cleaned up the Database_Nashville branch and mergde to Main
 
-  ** Will merge the Machine_Learning_Model branch to Main
+* Merge the Machine_Learning_Model branch to Main
 
 * Connection of the model to the dataframe
 
@@ -85,5 +85,28 @@ Tableau Public:  https://public.tableau.com/app/profile/joy.richardson/viz/Final
 
 * Completed Machine Learning Model
 
-* Continued work on presentation
+* Continued work on presentation and Tableau
+
+## Results:
+
+Using the Housing and Parks dataframes, we merged the dataframes and trained and tested our dataset and fit the model.  R-squared or R2 explains the degree to which your input variables explain the variation of your output / predicted variable. So, if R-square is 0.86, it means 86% of the variation in the output variable is explained by the input variables. <br/> 
+
+![](Snips/R2_score.PNG)<br/>
+
+Below shows the consistency of results in the training and testing datasets. As expected, the testing data is (slightly) smaller than the training data.<br/>
+
+![](Snips/data_scores.PNG)<br/>
+
+We summarized the feature importance and found that the following features were the most significant in our dataset.  Feature 12 = if there are ADA parks and Feature 14 = if there is a walking/jogging path (in a zip code)
+
+![](Snips/feature_importance.PNG)<br/>
+
+
+
+
+
+
+
+
+
 
