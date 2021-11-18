@@ -89,15 +89,15 @@ Tableau Public:  https://public.tableau.com/app/profile/joy.richardson/viz/Final
 
 ## Results:
 
-Using the Housing and Parks dataframes, we merged the dataframes and trained and tested our dataset and fit the model.  R-squared or R2 explains the degree to which your input variables explain the variation of your output / predicted variable. So, if R-square is 0.86, it means 86% of the variation in the output variable is explained by the input variables. <br/> 
+Using the Housing and Parks dataframes, we merged the dataframes and trained and tested our dataset and fit the model.  R-squared or R2 explains the degree to which your input variables explain the variation of your output / predicted variable. So, if R-square is 0.76, it means 86% of the variation in the output variable is explained by the input variables. <br/> 
 
 ![](Snips/R2_score.PNG)<br/>
 
-Below shows the consistency of results in the training and testing datasets. As expected, the testing data is (slightly) smaller than the training data.<br/>
+Below shows the consistency of results in the training and testing datasets. <br/>
 
 ![](Snips/data_scores.PNG)<br/>
 
-We summarized the feature importance and found that the following features were the most significant in our dataset.  Feature 12 = if there are ADA parks and Feature 14 = if there is a walking/jogging path (in a zip code)
+We also summarized the feature importance below. <br/>
 
 ![](Snips/feature_importance.PNG)<br/>
 
